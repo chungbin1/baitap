@@ -4,7 +4,7 @@ ini_set('max_execution_time', 300);
 require 'simple_html_dom.php';
 require 'example.php';
 require 'product.php';
-
+// test commit
 $link='http://pico.vn';
 $html=file_get_html($link);
 
